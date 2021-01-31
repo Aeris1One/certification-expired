@@ -8,7 +8,7 @@ const expired = {
     }
     return true;
   },
-  isAsync: true,
+  isAsync: false,
   arguments: [{ name: "date", type: "Date" }],
   description: "Is certification expired ?"
 };
