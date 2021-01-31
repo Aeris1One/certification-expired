@@ -3,9 +3,18 @@
   "version": "0.1.0",
   "description": "Test if a date is older than 3 months (if certification is expired)",
   "main": "index.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "author": "Aeris1One",
   "license": "MIT",
-  "repository": "github:aeris1one/certified-expiration"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aeris1one/certified-expiration.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aeris1one/certified-expiration/issues"
+  },
+  "homepage": "https://github.com/aeris1one/certified-expiration#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
